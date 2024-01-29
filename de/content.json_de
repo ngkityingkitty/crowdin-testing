@@ -2,7 +2,8 @@
   "article": {
     "title": "Was ist GoTo Admin?",
     "mainText": "GoTo Admin ist eine All-in-One IT-Management-Suite, die speziell für die heutigen Herausforderungen im IT-Support entwickelt wurde. Sie vereint erstklassigen Fernzugriff und -support mit konversationellem Ticketing, um Ihnen zu helfen, Anfragen zu erhalten, Probleme einzuteilen und Probleme schneller zu lösen.",
-    "new": "New",
-    "hello": "Hello"
+    "new": "Neu",
+    "hello": "Hallo",
+    "bye": "Bye"
   }
 }

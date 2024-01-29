@@ -2,6 +2,7 @@
   "article": {
     "title": "Was ist GoTo Admin?",
     "mainText": "GoTo Resolve ist eine All-in-One IT-Management-Suite, die speziell für die Herausforderungen des IT-Supports von heute entwickelt wurde.",
-    "New": "new"
+    "New": "new",
+    "Old": "old"
   }
 }

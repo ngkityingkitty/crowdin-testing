@@ -3,4 +3,4 @@ pull_request_labels:
   - translations
 files:
   - source: "main/content.json"
-    translation: "main/%original_file_name%_%two_letters_code%"
+    translation: "main//%two_letters_code%.json"

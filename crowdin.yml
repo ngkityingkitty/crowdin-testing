@@ -1,11 +1,6 @@
 pull_request_title: "chore: new Crowdin translation"
 pull_request_labels:
-    - translations
-"files" : [
-  {
-    "source" : "main/content.json",
-    "translation" : "main/%original_file_name%_%two_letters_code%",
-
-    }
-  }
-]
+  - translations
+files:
+  - source: "main/content.json"
+    translation: "main/%original_file_name%_%two_letters_code%"

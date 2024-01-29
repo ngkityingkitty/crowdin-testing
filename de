@@ -1,0 +1,18 @@
+[
+    {
+        "identifier": "article.title",
+        "source_string": "What is GoTo Admin?",
+        "translation": "Was ist GoTo Admin?",
+        "context": "article -> title",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "article.mainText",
+        "source_string": "GoTo Admin is an all-in-one IT management suite purpose-built for today's IT support challenges. It brings together world-class remote access and support with conversational ticketing to help you receive requests, triage problems, and fix issues quicker.",
+        "translation": "GoTo Admin ist eine All-in-One IT-Management-Suite, die speziell für die heutigen Herausforderungen im IT-Support entwickelt wurde. Sie vereint erstklassigen Fernzugriff und -support mit konversationellem Ticketing, um Ihnen zu helfen, Anfragen zu erhalten, Probleme einzuteilen und Probleme schneller zu lösen.",
+        "context": "article -> mainText",
+        "labels": null,
+        "max_length": null
+    }
+]

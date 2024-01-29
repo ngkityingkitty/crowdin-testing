@@ -6,4 +6,3 @@ files:
     translation: '%original_file_name%_%two_letters_code%'
 bundles:
   - 8
-  - 12

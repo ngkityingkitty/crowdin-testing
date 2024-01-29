@@ -1,0 +1,18 @@
+[
+    {
+        "identifier": "article.title",
+        "source_string": "What is GoTo Admin?",
+        "translation": "What is GoTo Admin?",
+        "context": "article -> title",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "article.mainText",
+        "source_string": "GoTo Admin is an all-in-one IT management suite purpose-built for today's IT support challenges.",
+        "translation": "GoTo Admin is an all-in-one IT management suite purpose-built for today's IT support challenges.",
+        "context": "article -> mainText",
+        "labels": null,
+        "max_length": null
+    }
+]
